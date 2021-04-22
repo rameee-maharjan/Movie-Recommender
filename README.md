@@ -3,12 +3,19 @@
 Installation
 
 Install Jupyter notebook, Python and the following necessary packages.
+
 Jupyter: https://jupyter.org/install
+
 Python: https://www.python.org/downloads/
+
 Numpy: https://anaconda.org/anaconda/numpy
+
 Sklearn: https://anaconda.org/anaconda/scikit-learn
+
 Pandas: https://anaconda.org/anaconda/pandas
+
 Pickle: https://anaconda.org/conda-forge/pickle5
+
 Joblib: https://anaconda.org/anaconda/joblib
 
 Folder information
