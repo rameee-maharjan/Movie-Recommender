@@ -34,11 +34,17 @@ If you want to start everything from scratch.
 
 Delete everything from the datasets folder except for the original MovieLens datasets movies.csv and ratings.csv.
 Run the following files in the given order. These files also contain comments if there’s anything that should be done.
+
 i.	Preprocessing.ipynb
+
 ii.	ClusteringUsers.ipynb
+
 iii.	MovieRecommendation.ipynb
+
 iv.	EncodeGenres.ipynb
+
 v.	PredictionModel.ipynb
+
 vi.	MovieRatingPrediction.ipynb
 
 References:
