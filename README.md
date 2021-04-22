@@ -1,6 +1,6 @@
 # Movie-Recommender
 
-Installation
+**Installation**
 
 Install Jupyter notebook, Python and the following necessary packages.
 
@@ -18,11 +18,11 @@ Pickle: https://anaconda.org/conda-forge/pickle5
 
 Joblib: https://anaconda.org/anaconda/joblib
 
-Folder information
+**Folder information**
 
 The submission folder contains six .ipynb files, a datasets folder and a model folder. The datasets folder contains the results saved from different steps in the whole pipeline of the solution including .csv files and .pkl files. It should also contain the original dataset ratings.csv from MovieLens 25M dataset and sampled_ratings.csv which could not be uploaded due to its size. The model folder contains .joblib files for regression models.
 
-Running the Project
+**Running the Project**
 
 If you want to use the stored files and models:
 
