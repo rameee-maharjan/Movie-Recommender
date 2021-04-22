@@ -25,10 +25,13 @@ The submission folder contains six .ipynb files, a datasets folder and a model f
 Running the Project
 
 If you want to use the stored files and models:
+
 i.	For movie recommendation: Open MovieRecommendation.ipynb using Jupyter notebook and run each cell. After running the whole file, the output of the last cell will provide the recommendations for a randomly selected user.
+
 ii.	For movie rating prediction: Open MovieRatingPrediction.ipynb using Jupyter notebook and run each cell. After running the whole file, the output of the last three cells will provide the recommendations for a randomly selected user and a movie. Based on the evaluation metric, we can use the outputs for linear or ridge model as the final rating prediction.
 
 If you want to start everything from scratch. 
+
 Delete everything from the datasets folder except for the original MovieLens datasets movies.csv and ratings.csv.
 Run the following files in the given order. These files also contain comments if there’s anything that should be done.
 i.	Preprocessing.ipynb
